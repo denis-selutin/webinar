@@ -17,10 +17,10 @@ https://maven.apache.org/download.cgi
 Готові приклади можна знайти у вигляді архівів у цьому репозиторії.
 
 Лінки на ресурси що використовувались
-https://start.spring.io/
-https://themefisher.com/products/airspace-bootstrap
-https://github.com/themefisher/airspace-bootstrap/tree/main
-https://github.com/eugenp/tutorials/blob/master/spring-web-modules/spring-thymeleaf 
+1. https://start.spring.io/
+2. https://themefisher.com/products/airspace-bootstrap
+3. https://github.com/themefisher/airspace-bootstrap/tree/main
+4. https://github.com/eugenp/tutorials/blob/master/spring-web-modules/spring-thymeleaf 
 
 **План майстер класу**
 1. Створення додатку
